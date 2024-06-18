@@ -27,7 +27,7 @@
     "socket.io-client": "^4.6.1",
     "tar": "^6.1.13",
     "terminal-kit": "^3.0.0",
-    "webtorrent": "1.9.7",
+    "webtorrent": "2.0.2",
     "yargs": "^17.7.1"
   },
   "devDependencies": {
